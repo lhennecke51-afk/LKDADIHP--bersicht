@@ -1,0 +1,10 @@
+Feuerwehren-PWA – Veröffentlichen
+Alle Dateien zusammen in EINEN Ordner auf einem HTTPS-Webspace legen, z. B.:
+- GitHub Pages (Repo anlegen, Dateien hochladen, Pages aktivieren)
+- Netlify Drop (app.netlify.com/drop – Ordner hineinziehen)
+- eigener Webserver mit HTTPS
+Danach die Adresse am Handy öffnen:
+- Android/Chrome: Menü -> "App installieren"
+- iPhone/Safari: Teilen -> "Zum Home-Bildschirm"
+Nach dem ersten Laden funktioniert die App offline.
+Bei Änderungen an index.html in sw.js die Version (V) hochzählen, z. B. feuerwehren-v2.
